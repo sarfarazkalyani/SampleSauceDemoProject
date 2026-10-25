@@ -1,0 +1,19 @@
+{
+  "name": "playwright-saucedemo-framework",
+  "version": "1.0.0",
+  "description": "Production-ready Playwright automation framework in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:ui": "npx playwright test --ui",
+    "test:headed": "npx playwright test --headed",
+    "lint": "eslint .",
+    "format": "prettier --write ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@playwright/test": "^1.49.0",
+    "eslint": "^8.57.0",
+    "prettier": "^3.2.5"
+  }
+}
