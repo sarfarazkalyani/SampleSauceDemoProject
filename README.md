@@ -1,6 +1,6 @@
 # Production-Ready Playwright JavaScript Framework
 
-[![Playwright Regression Pipeline](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/playwright.yml/badge.svg)](https://github.com/YOUR_USERNAME/YOUR_REPO/actions)
+[![Playwright Regression Pipeline](https://github.com/sarfarazkalyani/SampleSauceDemoProject/actions/workflows/playwright.yml/badge.svg)](https://github.com/sarfarazkalyani/SampleSauceDemoProject/actions)
 
 An enterprise automation engine modeling modular architecture, asynchronous API interception footprints, and state preservation mechanics using vanilla JavaScript.
 
@@ -17,8 +17,8 @@ An enterprise automation engine modeling modular architecture, asynchronous API 
 ## 📥 Getting Started
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/sarfarazkalyani/SampleSauceDemoProject.git
+cd SampleSauceDemoProject
 
 # Install clean engine dependencies
 npm ci
